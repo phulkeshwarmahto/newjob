@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-8_Problems-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
-[![Easy](https://img.shields.io/badge/Easy-2_Solved-10b981?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-9_Problems-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
+[![Easy](https://img.shields.io/badge/Easy-3_Solved-10b981?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
 [![Medium](https://img.shields.io/badge/Medium-4_Solved-f59e0b?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
 [![Hard](https://img.shields.io/badge/Hard-2_Solved-ef4444?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
 [![Sync Engine](https://img.shields.io/badge/Sync_Engine-LeetGitSyncPro-6366f1?style=for-the-badge&logo=github)](https://synccode-pro.pages.dev)
@@ -17,15 +17,15 @@
 ## 📊 Overall Progress & Difficulty Breakdown
 
 ```text
-🟢 Easy:    [█████░░░░░░░░░░░░░░░]   2 Solved (25%)
-🟡 Medium:  [██████████░░░░░░░░░░]   4 Solved (50%)
-🔴 Hard:    [█████░░░░░░░░░░░░░░░]   2 Solved (25%)
+🟢 Easy:    [███████░░░░░░░░░░░░░]   3 Solved (33%)
+🟡 Medium:  [█████████░░░░░░░░░░░]   4 Solved (44%)
+🔴 Hard:    [████░░░░░░░░░░░░░░░░]   2 Solved (22%)
 ================================================================
-🏆 Total:   8 Unique Problems Solved & Documented
+🏆 Total:   9 Unique Problems Solved & Documented
 ```
 
 ### 🌐 Multi-Platform Solves Breakdown
-- 🟧 **LeetCode:** `8` Solved
+- 🟧 **LeetCode:** `9` Solved
 - 🟩 **HackerRank:** `0` Solved
 - 🟦 **Codeforces:** `0` Solved
 - 🟩 **GeeksforGeeks:** `0` Solved
@@ -34,7 +34,7 @@
 - 👨‍🍳 **CodeChef:** `0` Solved
 
 ### 🎯 Key Topic Tags
-`#Linked List` `#Sorting`
+`#Array` `#Two Pointers`
 
 ---
 
@@ -42,17 +42,18 @@
 
 | # | Problem Title | Platform | Difficulty | Language | Performance (Time / Mem) | Solution & Complexity | Topics |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| 1 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/submissions/2123988510/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./insertion-sort-list/) | `Linked List` `Sorting` |
-| 2 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./kth-largest-element-in-an-array/) | `DSA` |
-| 3 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./check-if-array-is-sorted-and-rotated/) | `DSA` |
-| 4 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./second-largest-digit-in-a-string/) | `DSA` |
-| 5 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | `LEETCODE` | 🔴 `Hard` | `cpp` | 0ms / — | [📁 Solution & Notes](./longest-valid-parentheses/) | `DSA` |
-| 6 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 300ms / — | [📁 Solution & Notes](./sort-an-array/) | `DSA` |
-| 7 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | `LEETCODE` | 🔴 `Hard` | `cpp` | 0ms / — | [📁 Solution & Notes](./median-of-two-sorted-arrays/) | `DSA` |
-| 8 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./longest-substring-without-repeating-characters/) | `DSA` |
+| 1 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2123990875/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./remove-duplicates-from-sorted-array/) | `Array` `Two Pointers` |
+| 2 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./insertion-sort-list/) | `DSA` |
+| 3 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./kth-largest-element-in-an-array/) | `DSA` |
+| 4 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./check-if-array-is-sorted-and-rotated/) | `DSA` |
+| 5 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 0ms / — | [📁 Solution & Notes](./second-largest-digit-in-a-string/) | `DSA` |
+| 6 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | `LEETCODE` | 🔴 `Hard` | `cpp` | 0ms / — | [📁 Solution & Notes](./longest-valid-parentheses/) | `DSA` |
+| 7 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 300ms / — | [📁 Solution & Notes](./sort-an-array/) | `DSA` |
+| 8 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | `LEETCODE` | 🔴 `Hard` | `cpp` | 0ms / — | [📁 Solution & Notes](./median-of-two-sorted-arrays/) | `DSA` |
+| 9 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./longest-substring-without-repeating-characters/) | `DSA` |
 
 ---
 
 <div align="center">
-  <sub>Automated Portfolio generated by <a href="https://synccode-pro.pages.dev"><strong>LeetGitSyncPro</strong></a> • Last updated: Sat, 29 Aug 2026 15:05:44 GMT</sub>
+  <sub>Automated Portfolio generated by <a href="https://synccode-pro.pages.dev"><strong>LeetGitSyncPro</strong></a> • Last updated: Sat, 29 Aug 2026 15:06:55 GMT</sub>
 </div>
