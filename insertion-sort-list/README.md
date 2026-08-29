@@ -1,15 +1,49 @@
-<h2><a href="https://leetcode.com/problems/insertion-sort-list/description/">Insertion Sort List</a></h2><h3>Medium</h3><hr>
+<h2><a href="https://leetcode.com/problems/insertion-sort-list/submissions/2123988510/">Insertion Sort List</a></h2><h3>Medium</h3><hr>
 <div>
-<p>Given the head of a singly linked list, sort the list using insertion sort, and return the sorted list's head.</p>
-<p>The steps of the insertion sort algorithm:</p>
-<p>Insertion sort iterates, consuming one input element each repetition and growing a sorted output list.<br>At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list and inserts it there.<br>It repeats until no input elements remain.</p>
+<p>Given the <code>head</code> of a singly linked list, sort the list using <strong>insertion sort</strong>, and return <em>the sorted list's head</em>.</p>
+
+<p>The steps of the <strong>insertion sort</strong> algorithm:</p>
+
+<ol>
+	<li>Insertion sort iterates, consuming one input element each repetition and growing a sorted output list.</li>
+	<li>At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list and inserts it there.</li>
+	<li>It repeats until no input elements remain.</li>
+</ol>
+
 <p>The following is a graphical example of the insertion sort algorithm. The partially sorted list (black) initially contains only the first element in the list. One element (red) is removed from the input data and inserted in-place into the sorted list with each iteration.</p>
-<p>Example 1:</p>
-<p>Input: head = [4,2,1,3]<br>Output: [1,2,3,4]</p>
-<p>Example 2:</p>
-<p>Input: head = [-1,5,3,4,0]<br>Output: [-1,0,3,4,5]</p>
-<p>Constraints:</p>
-<p>The number of nodes in the list is in the range [1, 5000].<br>-5000 <= Node.val <= 5000</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif" alt="" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<p align="center">
+  <img src="https://assets.leetcode.com/uploads/2021/03/04/sort1linked-list.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</p>
+
+<pre><strong>Input:</strong> head = [4,2,1,3]
+<strong>Output:</strong> [1,2,3,4]
+</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<p align="center">
+  <img src="https://assets.leetcode.com/uploads/2021/03/04/sort2linked-list.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+</p>
+
+<pre><strong>Input:</strong> head = [-1,5,3,4,0]
+<strong>Output:</strong> [-1,0,3,4,5]
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li>The number of nodes in the list is in the range <code>[1, 5000]</code>.</li>
+	<li><code>-5000 &lt;= Node.val &lt;= 5000</code></li>
+</ul>
 </div>
 
 <hr>
@@ -18,7 +52,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Sat, 29 Aug 2026 06:24:30 GMT
+- **Submission Date:** Sat, 29 Aug 2026 15:05:43 GMT
 
 ---
 
