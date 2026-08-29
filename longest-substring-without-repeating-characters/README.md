@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">Longest Substring Without Repeating Characters</a></h2><h3>Medium</h3><hr>
+<h2><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2123502479/">Longest Substring Without Repeating Characters</a></h2><h3>Medium</h3><hr>
 <div>
 <p>Given a string s, find the length of the longest substring without duplicate characters.</p>
 <p>Example 1:</p>
@@ -8,7 +8,7 @@
 <p>Example 3:</p>
 <p>Input: s = "pwwkew"<br>Output: 3<br>Explanation: The answer is "wke", with the length of 3.<br>Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.</p>
 <p>Constraints:</p>
-<p>0 <= s.length <= 105<br>s consists of English letters, digits, symbols and spaces.</p>
+<p>0 <= s.length <= 105<br>	s consists of English letters, digits, symbols and spaces.</p>
 </div>
 
 <hr>
@@ -17,7 +17,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Sat, 29 Aug 2026 05:53:41 GMT
+- **Submission Date:** Sat, 29 Aug 2026 05:54:58 GMT
 
 ---
 
