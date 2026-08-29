@@ -1,15 +1,15 @@
-<h2><a href="https://leetcode.com/problems/insertion-sort-list/submissions/2123524692/">Insertion Sort List</a></h2><h3>Medium</h3><hr>
+<h2><a href="https://leetcode.com/problems/insertion-sort-list/description/">Insertion Sort List</a></h2><h3>Medium</h3><hr>
 <div>
 <p>Given the head of a singly linked list, sort the list using insertion sort, and return the sorted list's head.</p>
 <p>The steps of the insertion sort algorithm:</p>
-<p>Insertion sort iterates, consuming one input element each repetition and growing a sorted output list.<br>	At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list and inserts it there.<br>	It repeats until no input elements remain.</p>
+<p>Insertion sort iterates, consuming one input element each repetition and growing a sorted output list.<br>At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list and inserts it there.<br>It repeats until no input elements remain.</p>
 <p>The following is a graphical example of the insertion sort algorithm. The partially sorted list (black) initially contains only the first element in the list. One element (red) is removed from the input data and inserted in-place into the sorted list with each iteration.</p>
 <p>Example 1:</p>
 <p>Input: head = [4,2,1,3]<br>Output: [1,2,3,4]</p>
 <p>Example 2:</p>
 <p>Input: head = [-1,5,3,4,0]<br>Output: [-1,0,3,4,5]</p>
 <p>Constraints:</p>
-<p>The number of nodes in the list is in the range [1, 5000].<br>	-5000 <= Node.val <= 5000</p>
+<p>The number of nodes in the list is in the range [1, 5000].<br>-5000 <= Node.val <= 5000</p>
 </div>
 
 <hr>
@@ -18,7 +18,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Sat, 29 Aug 2026 06:20:14 GMT
+- **Submission Date:** Sat, 29 Aug 2026 06:24:30 GMT
 
 ---
 
