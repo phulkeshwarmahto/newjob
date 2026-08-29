@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-valid-parentheses/submissions/2123500341/">Longest Valid Parentheses</a></h2><h3>Hard</h3><hr>
+<h2><a href="https://leetcode.com/problems/longest-valid-parentheses/">Longest Valid Parentheses</a></h2><h3>Hard</h3><hr>
 <div>
 <p>Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring.</p>
 <p>Example 1:</p>
@@ -8,7 +8,7 @@
 <p>Example 3:</p>
 <p>Input: s = ""<br>Output: 0</p>
 <p>Constraints:</p>
-<p>0 <= s.length <= 3 * 104<br>	s[i] is '(', or ')'.</p>
+<p>0 <= s.length <= 3 * 104<br>s[i] is '(', or ')'.</p>
 </div>
 
 <hr>
@@ -17,7 +17,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Sat, 29 Aug 2026 05:52:22 GMT
+- **Submission Date:** Sat, 29 Aug 2026 05:51:50 GMT
 
 ---
 
