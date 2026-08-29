@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/second-largest-digit-in-a-string/submissions/2123905832/">Second Largest Digit in a String</a></h2><h3>Easy</h3><hr>
+<h2><a href="https://leetcode.com/problems/second-largest-digit-in-a-string/submissions/2123910443/">Second Largest Digit in a String</a></h2><h3>Easy</h3><hr>
 <div>
 <p>Given an alphanumeric string <code>s</code>, return <em>the <strong>second largest</strong> numerical digit that appears in </em><code>s</code><em>, or </em><code>-1</code><em> if it does not exist</em>.</p>
 
@@ -34,7 +34,7 @@
 - **Language:** `cpp`
 - **Runtime:** `0 ms`
 - **Memory:** `N/A`
-- **Submission Date:** Sat, 29 Aug 2026 14:17:32 GMT
+- **Submission Date:** Sat, 29 Aug 2026 14:22:35 GMT
 
 ---
 

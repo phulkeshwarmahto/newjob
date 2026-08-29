@@ -6,11 +6,9 @@ public:
     int secondHighest(std::string s) {
         int largest = -1;
         int secondLargest = -1;
-
         for (char c : s) {
             if (std::isdigit(c)) {
                 int digit = c - '0';
-                
                 if (digit > largest) {
                     secondLargest = largest;
                     largest = digit;
@@ -19,7 +17,6 @@ public:
                 }
             }
         }
-
         return secondLargest;
     }
 };
