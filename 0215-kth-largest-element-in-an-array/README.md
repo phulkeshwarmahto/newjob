@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2123606551/">215. Kth Largest Element in an Array</a></h2><h3>Medium</h3><hr>
+<h2><a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a></h2><h3>Medium</h3><hr>
 <div>
 <p>Given an integer array <code>nums</code> and an integer <code>k</code>, return <em>the</em> <code>k<sup>th</sup></code> <em>largest element in the array</em>.</p>
 
@@ -29,7 +29,7 @@
 - **Language:** `cpp`
 - **Runtime:** `35 ms` (Beats **57.91%**)
 - **Memory:** `72.7 MB` (Beats **57.91%**)
-- **Submission Date:** Sat, 29 Aug 2026 08:01:03 GMT
+- **Submission Date:** Sat, 29 Aug 2026 08:06:41 GMT
 
 ---
 
