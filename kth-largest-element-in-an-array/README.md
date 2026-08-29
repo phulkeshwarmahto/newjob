@@ -27,9 +27,9 @@
 
 ### 📊 Submission Statistics
 - **Language:** `cpp`
-- **Runtime:** `44 ms` (Beats **30.4%**)
-- **Memory:** `72.58 MB` (Beats **30.4%**)
-- **Submission Date:** Sat, 29 Aug 2026 14:16:31 GMT
+- **Runtime:** `0 ms`
+- **Memory:** `N/A`
+- **Submission Date:** Sat, 29 Aug 2026 14:15:32 GMT
 
 ---
 
