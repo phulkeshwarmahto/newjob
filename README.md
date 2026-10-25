@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Total Solved](https://img.shields.io/badge/Total_Solved-34_Problems-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
+[![Total Solved](https://img.shields.io/badge/Total_Solved-35_Problems-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
 [![Easy](https://img.shields.io/badge/Easy-18_Solved-10b981?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
-[![Medium](https://img.shields.io/badge/Medium-13_Solved-f59e0b?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
+[![Medium](https://img.shields.io/badge/Medium-14_Solved-f59e0b?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
 [![Hard](https://img.shields.io/badge/Hard-3_Solved-ef4444?style=for-the-badge&logoColor=white)](https://github.com/phulkeshwarmahto/newjob)
 [![Sync Engine](https://img.shields.io/badge/Sync_Engine-LeetGitSyncPro-6366f1?style=for-the-badge&logo=github)](https://garamsoftwares.pages.dev/leetgitsync)
 
@@ -17,11 +17,11 @@
 ## 📊 Overall Progress & Difficulty Breakdown
 
 ```text
-🟢 Easy:    [███████████░░░░░░░░░]  18 Solved (53%)
-🟡 Medium:  [████████░░░░░░░░░░░░]  13 Solved (38%)
+🟢 Easy:    [██████████░░░░░░░░░░]  18 Solved (51%)
+🟡 Medium:  [████████░░░░░░░░░░░░]  14 Solved (40%)
 🔴 Hard:    [██░░░░░░░░░░░░░░░░░░]   3 Solved (9%)
 ================================================================
-🏆 Total:   34 Unique Problems Solved & Documented
+🏆 Total:   35 Unique Problems Solved & Documented
 ```
 
 ### 🌐 Multi-Platform Solves Breakdown
@@ -31,10 +31,10 @@
 - 🟩 **GeeksforGeeks:** `4` Solved
 - 🔷 **InterviewBit:** `0` Solved
 - 🟧 **CodeStudio:** `1` Solved
-- 👨‍🍳 **CodeChef:** `0` Solved
+- 👨‍🍳 **CodeChef:** `1` Solved
 
 ### 🎯 Key Topic Tags
-`#HackerRank` `#Problem Solving` `#Algorithms` `#Array` `#String` `#Linked List` `#Math` `#Recursion` `#Hash Table` `#Heap (Priority Queue)` `#Two Pointers` `#Codeforces` `#Competitive Programming`
+`#Codeforces` `#Competitive Programming` `#Array` `#String` `#Linked List` `#Math` `#Recursion` `#Hash Table` `#Heap (Priority Queue)` `#Two Pointers` `#HackerRank` `#Problem Solving` `#Algorithms` `#CodeChef`
 
 ---
 
@@ -42,14 +42,14 @@
 
 | # | Problem Title | Platform | Difficulty | Language | Performance (Time / Mem) | Solution & Complexity | Topics |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| 1 | [2268A](https://codeforces.com/problemset/status?my=on) | `CODEFORCES` | 🟢 `Easy` | `cpp` | 31 ms / 0 MB | [📁 Solution & Notes](./Contests/contest-2277/2277-2268A-2268a/) | `Codeforces` `Competitive Programming` |
-| 2 | [Me First](https://leetcode.com/problems/solve-me-first/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./solve-me-first/) | `DSA` |
-| 3 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 1125000ms / — | [📁 Solution & Notes](./sum-of-beauty-of-all-substrings/) | `Array` `String` |
-| 4 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `LEETCODE` | 🟡 `Medium` | `python3` | 0ms / — | [📁 Solution & Notes](./add-two-numbers/) | `Linked List` `Math` `Recursion` |
-| 5 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./move-zeroes/) | `DSA` |
-| 6 | [Remove Element](https://leetcode.com/problems/remove-element/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./remove-element/) | `DSA` |
-| 7 | [Reverse The Array](https://www.naukri.com/code360/problems/reverse-the-array) | `CODESTUDIO` | 🔴 `Hard` | `cpp` | 16ms / — | [📁 Solution & Notes](./reverse-the-array/) | `Array` |
-| 8 | [2268A](https://leetcode.com/problems/2268a-2268a/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 46ms / — | [📁 Solution & Notes](./2268a-2268a/) | `DSA` |
+| 1 | [Welcome to the CodeChef AI Tutor](https://www.codechef.com/practice/course/cpp/PCPP01/problems/CCLEARN) | `CODECHEF` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./CCLEARN/) | `CodeChef` `Competitive Programming` |
+| 2 | [2268A](https://leetcode.com/problems/2268a-2268a/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 46ms / — | [📁 Solution & Notes](./2268a-2268a/) | `DSA` |
+| 3 | [Me First](https://leetcode.com/problems/solve-me-first/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./solve-me-first/) | `DSA` |
+| 4 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 1125000ms / — | [📁 Solution & Notes](./sum-of-beauty-of-all-substrings/) | `Array` `String` |
+| 5 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | `LEETCODE` | 🟡 `Medium` | `python3` | 0ms / — | [📁 Solution & Notes](./add-two-numbers/) | `Linked List` `Math` `Recursion` |
+| 6 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./move-zeroes/) | `DSA` |
+| 7 | [Remove Element](https://leetcode.com/problems/remove-element/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./remove-element/) | `DSA` |
+| 8 | [Reverse The Array](https://www.naukri.com/code360/problems/reverse-the-array) | `CODESTUDIO` | 🔴 `Hard` | `cpp` | 16ms / — | [📁 Solution & Notes](./reverse-the-array/) | `Array` |
 | 9 | [Pass by Reference and Value](https://leetcode.com/problems/pass-by-reference-and-value/) | `LEETCODE` | 🟢 `Easy` | `cpp` | 1110000ms / — | [📁 Solution & Notes](./pass-by-reference-and-value/) | `DSA` |
 | 10 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | `LEETCODE` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./shortest-bridge/) | `DSA` |
 | 11 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | `LEETCODE` | 🟢 `Easy` | `cpp` | — / — | [📁 Solution & Notes](./shortest-distance-to-a-character/) | `DSA` |
@@ -72,13 +72,14 @@
 | 28 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 300ms / — | [📁 Solution & Notes](./sort-an-array/) | `Array` |
 | 29 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | `LEETCODE` | 🔴 `Hard` | `cpp` | 0ms / — | [📁 Solution & Notes](./median-of-two-sorted-arrays/) | `Array` |
 | 30 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `LEETCODE` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./longest-substring-without-repeating-characters/) | `String` |
-| 31 | [Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true) | `HACKERRANK` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./solve-me-first/) | `HackerRank` `Problem Solving` `Algorithms` |
-| 32 | [Sum of Beauty of All Substrings](https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1) | `GEEKSFORGEEKS` | 🟢 `Easy` | `cpp` | 1125s (1125000ms) / — | [📁 Solution & Notes](./sum-of-beauty-of-all-substrings/) | `GeeksforGeeks` |
-| 33 | [Instnoodle](https://leetcode.com/problems/instnoodle/) | `LEETCODE` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./instnoodle/) | `DSA` |
-| 34 | [Geek Hates Too Many 1s 170647](https://leetcode.com/problems/geek-hates-too-many-1s--170647/) | `LEETCODE` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./geek-hates-too-many-1s--170647/) | `DSA` |
+| 31 | [2268A](https://codeforces.com/problemset/status?my=on) | `CODEFORCES` | 🟢 `Easy` | `cpp` | 31 ms / 0 MB | [📁 Solution & Notes](./Contests/contest-2277/2277-2268A-2268a/) | `Codeforces` `Competitive Programming` |
+| 32 | [Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true) | `HACKERRANK` | 🟡 `Medium` | `cpp` | 0ms / — | [📁 Solution & Notes](./solve-me-first/) | `HackerRank` `Problem Solving` `Algorithms` |
+| 33 | [Sum of Beauty of All Substrings](https://www.geeksforgeeks.org/problems/sum-of-beauty-of-all-substrings-1662962118/1) | `GEEKSFORGEEKS` | 🟢 `Easy` | `cpp` | 1125s (1125000ms) / — | [📁 Solution & Notes](./sum-of-beauty-of-all-substrings/) | `GeeksforGeeks` |
+| 34 | [Instnoodle](https://leetcode.com/problems/instnoodle/) | `LEETCODE` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./instnoodle/) | `DSA` |
+| 35 | [Geek Hates Too Many 1s 170647](https://leetcode.com/problems/geek-hates-too-many-1s--170647/) | `LEETCODE` | 🟡 `Medium` | `cpp` | — / — | [📁 Solution & Notes](./geek-hates-too-many-1s--170647/) | `DSA` |
 
 ---
 
 <div align="center">
-  <sub>Automated Portfolio generated by <a href="https://garamsoftwares.pages.dev/leetgitsync"><strong>LeetGitSyncPro</strong></a> • Last updated: Sun, 25 Oct 2026 03:31:59 GMT</sub>
+  <sub>Automated Portfolio generated by <a href="https://garamsoftwares.pages.dev/leetgitsync"><strong>LeetGitSyncPro</strong></a> • Last updated: Sun, 25 Oct 2026 03:34:46 GMT</sub>
 </div>
